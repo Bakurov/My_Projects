@@ -1,6 +1,0 @@
-D:\Study\Visual_Studio\My_Projects\My_Project\My_Project\bin\Debug\My_Project.exe.config
-D:\Study\Visual_Studio\My_Projects\My_Project\My_Project\bin\Debug\My_Project.exe
-D:\Study\Visual_Studio\My_Projects\My_Project\My_Project\bin\Debug\My_Project.pdb
-D:\Study\Visual_Studio\My_Projects\My_Project\My_Project\obj\Debug\My_Project.csprojResolveAssemblyReference.cache
-D:\Study\Visual_Studio\My_Projects\My_Project\My_Project\obj\Debug\My_Project.exe
-D:\Study\Visual_Studio\My_Projects\My_Project\My_Project\obj\Debug\My_Project.pdb
