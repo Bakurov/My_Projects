@@ -8,14 +8,12 @@ namespace my_homework
         private int _x;
         private int _y;
         private readonly int _hw;
-        private static bool Com;
 
         public Figur(int x, int y,int hw)
         {
             _x = x;
             _y = y;
             _hw = hw;
-            Com = false;
         }
 
         public void SetNewPosX(int x)
@@ -71,33 +69,6 @@ namespace my_homework
                     }
                 }
             }
-        }
-        public static bool operator == (Figur a, Figur b)
-        {
-            var temp = b._x + b._hw;
-            for (var i = 0; i <= b._hw; i++)
-            {
-                if (a._y == temp + i)
-                {
-                    Com = true;
-                    break;
-                }
-            }
-            temp = b._y + b._hw;
-            for (int i = 0; i < b._hw; i++)
-            {
-                if (a._x == temp + i)
-                {
-                    Com = true;
-                    break;
-                }
-            }
-            return (Com);
-        }
-
-        public static bool operator !=(Figur a, Figur b)
-        {
-            return (false);
         }
     }
 }
