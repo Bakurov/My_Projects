@@ -1,0 +1,12 @@
+D:\Study\Visual_Studio\My_Projects\my_homework\my_homework\bin\Debug\my_homework.exe.config
+D:\Study\Visual_Studio\My_Projects\my_homework\my_homework\obj\Debug\my_homework.csprojResolveAssemblyReference.cache
+D:\Study\Visual_Studio\My_Projects\my_homework\my_homework\bin\Debug\my_homework.exe
+D:\Study\Visual_Studio\My_Projects\my_homework\my_homework\bin\Debug\my_homework.pdb
+D:\Study\Visual_Studio\My_Projects\my_homework\my_homework\obj\Debug\my_homework.exe
+D:\Study\Visual_Studio\My_Projects\my_homework\my_homework\obj\Debug\my_homework.pdb
+d:\Study\Visual_Studio\My_project\my_homework\my_homework\bin\Debug\my_homework.exe.config
+d:\Study\Visual_Studio\My_project\my_homework\my_homework\obj\Debug\my_homework.exe
+d:\Study\Visual_Studio\My_project\my_homework\my_homework\obj\Debug\my_homework.pdb
+d:\Study\Visual_Studio\My_project\my_homework\my_homework\bin\Debug\my_homework.exe
+d:\Study\Visual_Studio\My_project\my_homework\my_homework\bin\Debug\my_homework.pdb
+d:\Study\Visual_Studio\My_project\my_homework\my_homework\obj\Debug\my_homework.csprojResolveAssemblyReference.cache
